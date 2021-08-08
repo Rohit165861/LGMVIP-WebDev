@@ -146,7 +146,7 @@ li,a{
     height: 235px;
     position: relative;
     top: -142px;
-    left: 890px;
+    left: 870px;
     align-items: center;
 }
 .about {
@@ -191,10 +191,11 @@ li,a{
 
 .card p {
     color: grey;
+    font-size:15px;
 }
 
 .card button {
-    padding: 12px;
+    padding: 3px;
     background-color: rgb(70, 20, 78);
     color: white;
     border: 2px solid rgb(70, 20, 78);
