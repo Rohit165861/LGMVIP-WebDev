@@ -19,7 +19,7 @@ h2.logo{
     color: rgb(233, 227, 227);
     font-size: 30px;
     margin-right: auto;
-    padding-left: 318px;
+    padding-left: 332px;
 }
 li,a{
     font-family:"montserrat",sans-serif;
@@ -79,7 +79,7 @@ li,a{
     top: 20px;
     position: relative;
     word-spacing: 2px;
-    font-size:18px ;
+    font-size:15px ;
 }
 .learn-more {
     margin-top: 10px;
